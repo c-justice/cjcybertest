@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJ! <br/></h1>
+<h1>Hi, I'm Jude C.! <br/></h1>
 
 <h2>👨‍💻 Tech Projects:</h2>
 
